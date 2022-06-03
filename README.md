@@ -11,4 +11,5 @@ QBCore hud design changed
 ![image](https://user-images.githubusercontent.com/89866234/171839786-69f87ca3-9320-47f7-832b-a84af3d66349.png)
 
 # Original script:
-https://github.com/qbcore-framework/qb-hud
+- https://github.com/qbcore-framework/qb-hud
+- https://github.com/Zryth16/qb-hud-zry-edit
